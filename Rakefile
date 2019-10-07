@@ -35,7 +35,7 @@ Motion::Project::App.setup do |app|
   #    version of iOS will be used).
   # ===========================================================================================
   # app.deployment_target = '10.0'
-  app.deployment_target = '11.2'
+  # app.deployment_target = '11.2'
 
   # ===========================================================================================
   # 4. Your app identifier is needed to deploy to an actual device. You do not need to set this
